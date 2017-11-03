@@ -14,6 +14,8 @@ app.get('/html', (req, res) => {
     })        
 })
 
+app.use(express.static('public'))
+
 app.listen(process.env.PORT || 8080, () => {
     console.log('server is running on ' + process.env.PORT)
 })
