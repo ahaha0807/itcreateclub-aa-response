@@ -14,6 +14,6 @@ app.get('/html', (req, res) => {
     })        
 })
 
-app.listen(8080, () => {
-    console.log('server is running!')
+app.listen(process.env.PORT || 8080, () => {
+    console.log('server is running on ' + process.env.PORT)
 })
