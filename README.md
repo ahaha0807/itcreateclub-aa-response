@@ -18,7 +18,7 @@ This is only `Using Browser` patern.（ぶらうざばーじょんでしか、�
 ```
 https://itcreate-club.herokuapp.com/html?url=[Image URL]
 ```
-ex.) `https://itcreate-club.herokuapp.com/html?url=https://avatars1.githubusercontent.com/u/16623885?s=460&v=4`
+e.g.) `https://itcreate-club.herokuapp.com/html?url=https://avatars1.githubusercontent.com/u/16623885?s=460&v=4`
 [Sample URL](https://itcreate-club.herokuapp.com/html?url=https://avatars1.githubusercontent.com/u/16623885?s=460&v=4)
 
 3. Access!（あくせすしてね！）
