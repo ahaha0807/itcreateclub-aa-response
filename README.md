@@ -1,6 +1,7 @@
 # Itcreateclub-AA-Response
-## How to Use（つかいかた）
+![ITCロゴ](https://itcreate-club.herokuapp.com/logo.png)
 
+## How to Use（つかいかた）
 ### Using `curl` command（`curl`こまんどをつかうばーじょん）
 ```shell
 curl itcreate-club.herokuapp.com
