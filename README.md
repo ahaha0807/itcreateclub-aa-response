@@ -8,7 +8,7 @@ curl itcreate-club.herokuapp.com
 
 ### Using Browser
 1. Launch Browser(Chrome | FireFox)
-2. Access to [This URL](http://itcreate-club.herokuapp.com)
+2. Access to [This URL](http://itcreate-club.herokuapp.com/html)
 
 ## Option
 This is only `Using Browser` patern.
@@ -19,6 +19,7 @@ This is only `Using Browser` patern.
 https://itcreate-club.herokuapp.com/html?url=[Image URL]
 ```
 ex.) `https://itcreate-club.herokuapp.com/html?url=https://avatars1.githubusercontent.com/u/16623885?s=460&v=4`
+[Sample URL](https://itcreate-club.herokuapp.com/html?url=https://avatars1.githubusercontent.com/u/16623885?s=460&v=4)
 
 3. Access!
 
